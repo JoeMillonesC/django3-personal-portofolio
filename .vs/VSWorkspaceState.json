@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\blog",
+    "\\blog\\templates",
+    "\\blog\\templates\\blog",
+    "\\personal_portofolio",
+    "\\portofolio",
+    "\\portofolio\\templates",
+    "\\portofolio\\templates\\portofolio"
+  ],
+  "SelectedNode": "\\blog\\templates\\blog\\details.html",
+  "PreviewInSolutionExplorer": false
+}
